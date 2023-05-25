@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <!-- ScreenTitles-->
+    <string name="welcome_screen_title">Welcome</string>
+    <string name="main_screen_title">Main</string>
+    <string name="cat_fact_screen_title">Cat Fact</string>
+    <string name="dog_fact_screen_title">Dog Fact</string>
+    <!-- Common-->
+    <string name="refresh_button_title">Refresh</string>
+    <!-- NetworkError-->
+    <string name="network_error_redirection_error_message">Redirection Error.</string>
+    <string name="network_error_unknown_error_message">Unknown error occurred.</string>
+    <string name="network_error_client_error_message">Client error occurred.</string>
+    <string name="network_error_server_error_message">Server error occurred.</string>
+    <!-- WelcomeScreen-->
+    <string name="welcome_screen_header_text">Hello in my first Jetpack Compose app</string>
+    <string name="welcome_screen_start_button_title">Start</string>
+    <!-- MainScreen-->
+    <string name="main_screen_header_text">Here you can find interesting facts about:</string>
+    <string name="main_screen_cat_fact_button_title">Cat</string>
+    <string name="main_screen_dog_fact_button_title">Dog</string>
+    <!-- JokeScreen-->
+    <string name="joke_screen_header_text">That was joke no dog fact here because API is no longer available. Instead of that I prepare joke for you!</string>
+</resources>
